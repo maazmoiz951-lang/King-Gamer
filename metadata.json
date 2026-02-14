@@ -1,0 +1,7 @@
+{
+  "name": " Visionary AI - Text to Image & Editor",
+  "description": "A powerful AI image companion that transforms your text into stunning visuals and lets you edit existing photos with simple natural language prompts, powered by Gemini 2.5 Flash Image.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
